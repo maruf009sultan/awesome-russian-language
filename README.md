@@ -173,14 +173,12 @@
 |:---:|----------|-------------|:-----:|
 | 1 | [100 Basic Russian Phrases](https://golearnrussian.com/basic-russian-phrases-100-osnovnyh-fraz-na-russkom-dlya-povsednevnogo-obshcheniya) | 100 essential everyday phrases with pronunciation [Free] | A1 |
 | 2 | 📄 [Adrian Language Coach — Pronunciation PDF + Audio](https://adrianlanguagecoach.com/russian-pronunciation-guide) | Quick audio course with free downloadable PDF [Free] | All |
-| 3 | [ClearRussian Pronunciation Course](https://www.clearrussian.com) | Step-by-step pronunciation mastery program with free training videos [Free] | C2 |
 | 4 | [Complete Russian Pronunciation Guide](https://storylearning.com/learn/russian/russian-tips/russian-pronunciation) | Comprehensive guide to all Russian sounds [Free] | All |
 | 5 | [Easy Pronunciation — Russian Trainer](https://easypronunciation.com/en/practice-russian-pronunciation-online) | Practice with HD audio, adjustable speed, phonetic transcription [Free] | All |
 | 6 | [FluencyDrop — Russian Stories](https://fluencydrop.com/stories/russian) | Graded stories by level (A1-C2) with audio and speaking practice [Free] | A1 |
 | 7 | ▶️ [Free 4-Day Pronunciation Training (YouTube)](https://www.youtube.com/watch?v=2BAXQz3llPM) | Video training covering syllables, stress, and fundamentals [Free] | All |
 | 8 | 📄 [Glossika Russian Guide (Free PDF)](https://ai.glossika.com/rus-SD/free-download/glossika-guide-to-russian-pronunciation-and-grammar) | Pronunciation + grammar with linguistic references [Free] | C1 |
 | 9 | [Learn Russian Step by Step — Pronunciation](https://learnrussianstepbystep.com/en/russian-pronunciation) | Complete pronunciation rules with audio examples [Free] | All |
-| 10 | [MasterRussian — Dining Phrases](http://masterrussian.com/bleating.shtml) | Restaurant vocabulary with pronunciation [Free] | A2 |
 | 11 | [Native Russian Pronunciation: Stress Training](https://ai.glossika.com/blog/native-russian-pronunciation-2-stress-training-exercises) | Stress training exercises for native-like pronunciation [Free] | C2 |
 | 12 | [Russian Alphabet Lesson](https://www.russianlessons.net/lessons/lesson1_main.php) | Structured lesson on the Russian alphabet with pronunciation [Free] | A1 |
 | 13 | [Russian Pronunciation with Kira](https://www.russianpronunciationwithkira.com/russian-pronunciation-101) | Comprehensive course guide to sounding "beautifully Russian" [Free] | All |
