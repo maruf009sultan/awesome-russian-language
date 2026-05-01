@@ -149,16 +149,15 @@
 | 2 | [Conjugated Russian Verbs List](https://www.russianlessons.net/verbs) | Alphabetical list of Russian verbs with full conjugations [Free] | A1 |
 | 3 | [Free Russian Alphabet Course](https://ikindalikelanguages.com/learn/RussianAlphabet) | Introductory course focused solely on the alphabet [Free] | A1 |
 | 4 | [How to Read Russian (Full Guide)](https://www.russianforfree.com/lessons-how-to-read-in-russian-01.php) | Comprehensive reading guide with practice exercises [Free] | A1 |
-| 5 | [Learn Russian Step by Step — Alphabet](https://learnrussianstepbystep.com/en/learn-russian-alphabet) | Step-by-step introduction to all 33 letters with audio [Free] | A1 |
+
 | 6 | [Lesson 1: Russian Alphabet](https://realrussianclub.com/russian-language-lesson-1) | Real Russian Club's first lesson on the alphabet [Free] | A1 |
-| 7 | [MasterRussian — Alphabet](http://masterrussian.com/aa-alphabet.shtml) | Introduction to the Russian alphabet with sound files [Free] | A1 |
 | 8 | [MasterRussian — Idioms](http://masterrussian.com/idioms/russian_idioms_5.htm) | Alphabetical list with English translations and examples [Free] | A1 |
 | 9 | 📱 [Numbers in Russian (Android)](https://play.google.com/store/apps/details?id=com.fenls.russiannumbers) | Free Android app for mastering Cyrillic numbers [Free] | A1 |
 | 10 | [Read Russian Confidently: 5 Rules](https://putnikschool.com/how-to-read) | 5 key rules and exercises for reading Russian confidently [Free] | A1 |
 | 11 | [Russian Fairy Tales in Parallel Text](https://archive.org/details/RussianTales) | Classic Russian fairy tales with side-by-side English translation [Free] | A1 |
 | 12 | [Russian for Free — Alphabet](https://www.russianforfree.com/lessons-russian-language-contents.php) | Complete alphabet course with audio recordings [Free] | A1 |
 | 13 | [Russian Language Lessons](https://www.russianlessons.net) | Free grammar, vocabulary, and alphabet lessons structured for self-study [Free] | A1 |
-| 14 | [Udemy Russian Alphabet Course](https://www.udemy.com/course/russian-alphabet-course/) | Dedicated paid course for mastering the Russian alphabet [Paid] | A1 |
+| 14 | [Udemy Russian Alphabet Course](https://www.udemy.com/course/russian-alphabet-course/) | Dedicated paid course for mastering the Russian alphabet [Free] | A1 |
 | 15 | [Video: Russian Alphabet](https://www.russianforfree.com/video-russian-alphabet.php) | Visual and audio introduction to every Russian letter [Free] | A1 |
 | 16 | [Wikipedia: Russian Alphabet](https://en.wikipedia.org/wiki/Russian_alphabet) | Comprehensive reference article on the Cyrillic alphabet [Free] | A1 |
 
