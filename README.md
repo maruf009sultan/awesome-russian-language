@@ -126,12 +126,9 @@
 
 | # | Resource | Description | Level |
 |:---:|----------|-------------|:-----:|
-| 1 | [American Councils Russian](https://www.americancouncils.org) | Study abroad and Russian language programs [Free] | All |
-| 2 | [CARLA Russian Resources](https://carla.umn.edu) | Center for Advanced Research on Language Acquisition resources [Free] | C1 |
-| 3 | [MLA Russian Enrollment Data](https://www.mla.org/Resources/Research/MLA-Map-of-Language-Enrollment) | Modern Language Association data on Russian enrollment in US [Free] | All |
+
 | 4 | [Russia Today](https://rt.com) | Russian state-funded English and Russian news [Free] | All |
 | 5 | [Russia-24](https://vgtrk.ru) | Russian 24-hour news channel online [Free] | All |
-| 6 | [SEELRC](https://seelrc.org) | Slavic and East European Language Research Center [Free] | All |
 | 7 | [Time in Russia](https://en.wikipedia.org/wiki/Time_in_Russia) | Understanding Russian time zones [Free] | All |
 | 8 | [Wikipedia: Russian Calendar](https://en.wikipedia.org/wiki/Public_holidays_in_Russia) | Russian holidays and date conventions [Free] | All |
 | 9 | [Wikipedia: Russian Phonology](https://en.wikipedia.org/wiki/Russian_phonology) | Detailed overview of Russian sound system and phonetics [Free] | All |
