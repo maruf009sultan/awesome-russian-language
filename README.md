@@ -203,12 +203,8 @@
 
 | # | Resource | Description | Level |
 |:---:|----------|-------------|:-----:|
-| 1 | [A Comprehensive Russian Grammar](https://www.amazon.com/s?k=comprehensive+russian+grammar+wade) | Terence Wade's definitive grammar reference [Free] | All |
-| 2 | [Active Russian Grammar](https://activerussian.com) | Online grammar resource for self-study at A1–A2 levels [Free] | A1 |
-| 3 | [Babbel Russian](https://www.babbel.com/learn-russian) | Conversation-focused Russian course with grammar explanations [Free] | All |
 | 4 | [Cheatography — Russian Prepositions Cheat Sheet](https://cheatography.com/zarioch/cheat-sheets/russian-prepositions) | Quick-reference cheat sheet [Free] | All |
-| 5 | [Class Central — Russian A1](https://www.classcentral.com/course/russian-a1-part1-19096) | Free course covering vocab, phonetics, grammar, dialogues [Free] | A1 |
-| 6 | [Complete Russian Grammar Guide](https://languageadvisor.net/russian-grammar-a-complete-guide) | Exhaustive guide covering all major grammar topics [Free] | All |
+
 | 7 | [Cornell — Beginning Russian Grammar](http://russian.cornell.edu/grammar/subject.htm) | University-level grammar reference from Cornell [Free] | All |
 | 8 | [Glossika — Russian Case System](https://ai.glossika.com/blog/russian-case-system-overview) | Overview of the case system with English explanations [Free] | All |
 | 9 | [Gribble — Russian Root List (Archive.org)](https://archive.org/details/russianrootlistw00grib) | Classic 1981 reference — free to borrow/download [Free] | All |
@@ -216,32 +212,30 @@
 | 11 | [Learn Russian Daily — Verbs of Motion](https://learnrussiandaily.com/russian-verbs-of-motion) | Complete guide from basics to advanced nuances [Free] | A1 |
 | 12 | [Learn Russian Step by Step](https://learnrussianstepbystep.com) | Systematic grammar-based course with tables and explanations [Free] | All |
 | 13 | [Learn Russian Step by Step](https://learnrussianstepbystep.com/en/learn-russian) | Free grammar/vocabulary course with audio for every lesson [Free] | All |
-| 14 | [Learn Russian Ukrainian — Books & Websites](https://learnrussianukrainian.wordpress.com/russian-books-websites) | Curated list of textbooks, websites, grammar [Free] | All |
+
 | 15 | [LingoDeer](https://www.lingodeer.com) | Structured Russian course with grammar explanations and review [Free] | All |
-| 16 | [Olivia & Hill — Russian for English Speakers](https://oliviahill.com/russian-grammar) | Grammar explained specifically for English speakers [Free] | All |
-| 17 | [Oxford Russian Grammar and Verbs](https://www.amazon.com/s?k=oxford+russian+grammar+verbs) | Compact grammar reference by Oxford [Free] | All |
+
 | 18 | [Real Russian Club: Cases Course](https://realrussianclub.com/cases-homepage) | Comprehensive course dedicated to mastering all 6 Russian cases [Free] | All |
 | 19 | [Russian Enthusiast — Cases](https://russianenthusiast.com/russian-grammar/russian-cases) | Comprehensive guide to all six cases with formation rules [Free] | All |
 | 20 | [Russian Enthusiast — Grammar Reference](https://russianenthusiast.com/russian-grammar) | Comprehensive navigable reference covering all Russian grammar concepts [Free] | All |
 | 21 | [Russian for Free — Grammar](https://www.russianforfree.com/grammar-of-russian-nouns-gender.php) | Grammar tables, exercises, and explanations from basic to advanced [Free] | A1 |
-| 22 | [Russian Grammar in Use](https://www.amazon.com/s?k=russian+grammar+in+use) | Practical grammar workbook [Free] | All |
+
 | 23 | [Russian Grammar Overview](https://www.russianforfree.com/grammar-of-russian-language.php) | Clear overview of Russian grammar system [Free] | All |
 | 24 | 📄 [Russian Grammar Reference Chart (PDF)](https://funrussianlessons.files.wordpress.com/2018/02/russian-grammar-reference-chart.pdf) | 2-page reference covering cases, functions, questions, and prepositions [Free] | All |
 | 25 | [RussianLessons — Case Summary](https://www.russianlessons.net/grammar/nouns_case_summary.php) | Overview of all six Russian cases with explanations [Free] | All |
-| 26 | [Schaum's Outline of Russian Grammar](https://www.amazon.com/s?k=schaum+russian+grammar) | Comprehensive grammar exercises and reference [Free] | All |
+
 | 27 | [Scribd — Roots of the Russian Language](https://www.scribd.com/document/1004330805/Roots-of-the-Russian-Language) | Free PDF of comprehensive root guide [Free] | All |
 | 28 | [Study Languages Online — Russian Grammar](http://www.study-languages-online.com/russian-grammar.html) | Grammar rules, tables, and exercises for nouns, adjectives, prepositions [Free] | All |
 | 29 | [Super Ultimate Declension Table (Medium)](https://medium.com/@noah.g/super-ultimate-russian-declension-table-401e5abf3be7) | Comprehensive table of all genders and cases [Free] | All |
 | 30 | [Sussex — Pushkin Grammar Reference](https://www.sussex.ac.uk/languages/ruslang/pushkin/grammar.html) | University of Sussex grammar reference [Free] | All |
 | 31 | 📄 [Teach Yourself Russian Grammar PDF](https://archive.org/download/TeachYourselfRussianGrammar/Teach%20Yourself%20Russian%20Grammar.pdf) | Complete grammar textbook available for free download [Free] | All |
 | 32 | [The Russian Blog (WordPress)](https://therussianblog.wordpress.com) | Regularly updated grammar explanations [Free] | All |
-| 33 | [V Puti: Russian Grammar in Context](https://www.amazon.com/s?k=v+puti+russian+grammar+context) | Intermediate grammar-in-context textbook [Free] | B1 |
+ 
 | 34 | 📄 [Verb Conjugation Cheat Sheet PDF](https://unlockingrussian.wordpress.com/wp-content/uploads/2020/07/blue-version-verb-conjugation-cheat-sheet-3.pdf) | Downloadable cheat sheet for Russian verb conjugation [Free] | All |
 | 35 | [Wikibooks Russian Textbook](https://en.wikibooks.org/wiki/Russian) | Community-written free Russian textbook with grammar coverage [Free] | All |
 | 36 | [Wikibooks — Russian/Grammar](https://en.wikibooks.org/wiki/Russian/Grammar) | Free open textbook covering general grammar [Free] | All |
 | 37 | [Wikibooks: Russian Verbal Aspect](https://en.wikibooks.org/wiki/Russian/Verbal_Aspect) | Comprehensive explanation of Russian verbal aspect [Free] | All |
 | 38 | [Wikipedia: Russian Grammar](https://en.wikipedia.org/wiki/Russian_grammar) | Detailed reference article on Russian grammar structure [Free] | All |
-| 39 | [Yale Pressbooks — Gerunds & Participles](https://yale.pressbooks.pub/advancedrussian/chapter/grammar-gerunds-and-participles) | University-level grammar reference [Free] | All |
 
 
 ### 📂 The Case System
