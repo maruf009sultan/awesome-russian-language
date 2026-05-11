@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/index.html</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>/quiz.html</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>/daily.html</loc><priority>0.95</priority><changefreq>daily</changefreq></url>
+  <url><loc>/learn-russian-alphabet.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>/russian-grammar-guide.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>/best-russian-podcasts.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>/how-to-learn-russian.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>/category.html?slug=getting-started</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=alphabet-and-phonetics</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=grammar</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=courses-and-moocs</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=podcasts-and-audio</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=youtube-and-video</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=flashcards-and-srs</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=movies-and-tv</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=music-and-songs</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=vocabulary-and-phrases</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=dictionaries-and-translation</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=apps-and-gamified-learning</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=games-and-quizzes</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=language-exchange-and-communities</loc><priority>0.7</priority></url>
+  <url><loc>/category.html?slug=culture-and-history</loc><priority>0.6</priority></url>
+  <url><loc>/category.html?slug=proficiency-tests-and-certification</loc><priority>0.6</priority></url>
+  <url><loc>/category.html?slug=github-repositories-and-nlp</loc><priority>0.6</priority></url>
+</urlset>

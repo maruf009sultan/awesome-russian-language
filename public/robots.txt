@@ -1,0 +1,4 @@
+# robots.txt — Awesome Russian Language
+User-agent: *
+Allow: /
+Sitemap: /sitemap.xml

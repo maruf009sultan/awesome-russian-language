@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Daily Russian Practice · A New Quiz Every Day</title>
+<meta name="description" content="A fresh deterministic Russian quiz every single day. Same questions for everyone — compete with friends on streaks and scores." />
+<meta name="keywords" content="daily russian quiz, learn russian, russian alphabet practice, cyrillic daily, russian language game" />
+<meta property="og:title" content="Daily Russian Practice — Awesome Russian Language" />
+<meta property="og:description" content="A new Russian quiz every day. Same for everyone. Share your streak." />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<link rel="canonical" href="/daily.html" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Quiz","name":"Daily Russian Practice","about":"Russian language","educationalLevel":"A1 to C2","provider":{"@type":"Organization","name":"Awesome Russian Language","url":"https://github.com/maruf009sultan/awesome-russian-language"}}
+</script>
+</head>
+<body>
+<div class="bg-aurora"></div>
+
+<header class="nav">
+  <a href="/index.html" class="brand">
+    <span class="flag">🇷🇺</span>
+    <span class="brand-text">Awesome<span class="brand-accent">Russian</span></span>
+  </a>
+  <nav class="nav-links">
+    <a href="/index.html">Home</a>
+    <a href="/index.html#categories">Categories</a>
+    <a href="/quiz.html">Cyrillic Quiz</a>
+    <a href="/daily.html" class="active">Daily Practice</a>
+    <a href="https://github.com/maruf009sultan/awesome-russian-language" target="_blank" rel="noopener">GitHub</a>
+  </nav>
+  <button class="icon-btn" id="refreshBtn" aria-label="Refresh resources" title="Refresh resources"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg></button><button class="btn-share" id="shareBtn">Share</button>
+</header>
+
+<main class="quiz-page">
+  <section class="quiz-hero">
+    <span class="pill">📅 New every day at midnight UTC</span>
+    <h1>Daily Russian <span class="grad">Practice</span></h1>
+    <p class="lede" id="dailyDateLabel">Loading today's challenge…</p>
+    <p class="lede" style="font-size:14px;color:var(--text-mute);max-width:520px;margin:8px auto 0">
+      Same 10 questions for everyone, everywhere. Build a streak, share your score with friends, and come back tomorrow for a fresh set.
+    </p>
+  </section>
+
+  <div id="dailyApp" class="quiz-app"></div>
+
+  <!-- Invisible SEO content for crawlers -->
+  <section aria-hidden="true" class="seo-hidden">
+    <h2>Daily Russian language practice — free, no signup</h2>
+    <p>Practice Russian every day with our free daily quiz covering the Cyrillic alphabet, Russian grammar, vocabulary, cases, verb conjugation, pronunciation, and everyday phrases. Each day brings a new deterministic set of 10 questions, identical for every learner — perfect for studying Russian with friends, classmates, or language exchange partners. Whether you are at A1 beginner level just starting with the 33 letters of the Russian alphabet, or at advanced C1/C2 level reviewing aspects of the perfective and imperfective verbs, our daily Russian quiz is built to keep you consistent. Free Russian learning, free Cyrillic practice, free Russian alphabet quiz, free daily Russian challenge. Learn Russian online, learn Russian fast, learn Russian for travel, learn Russian for work, learn Russian for love. Изучайте русский язык каждый день.</p>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="foot-bottom">
+    <span>© Awesome Russian Language · CC0</span>
+    <span>Made with ❤️ by <a href="https://github.com/maruf009sultan" target="_blank" rel="noopener">@maruf009sultan</a></span>
+  </div>
+</footer>
+
+<div id="toast" class="toast"></div>
+
+<script src="/app.js"></script>
+<script>renderDaily();</script>
+</body>
+</html>

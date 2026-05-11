@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Category · Awesome Russian Language</title>
+<meta name="description" content="Browse hand-picked Russian language learning resources by category — courses, grammar, podcasts, flashcards, movies, apps, and more." />
+<meta name="keywords" content="russian resources, russian category, learn russian, russian courses, russian grammar, russian podcasts, free russian, russian flashcards, awesome russian" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Russian Language Resources by Category" />
+<meta property="og:description" content="Curated Russian learning resources, organized by topic." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="robots" content="index,follow" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CollectionPage","name":"Russian Learning Resources by Category","isPartOf":{"@type":"WebSite","name":"Awesome Russian Language"}}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+<div class="bg-aurora"></div>
+
+<header class="nav">
+  <a href="/index.html" class="brand">
+    <span class="flag">🇷🇺</span>
+    <span class="brand-text">Awesome<span class="brand-accent">Russian</span></span>
+  </a>
+  <nav class="nav-links">
+    <a href="/index.html">Home</a>
+    <a href="/index.html#categories">Categories</a>
+    <a href="/quiz.html">Cyrillic Quiz</a>
+    <a href="https://github.com/maruf009sultan/awesome-russian-language" target="_blank" rel="noopener">GitHub</a>
+  </nav>
+  <button class="icon-btn" id="refreshBtn" aria-label="Refresh resources" title="Refresh resources"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg></button><button class="btn-share" id="shareBtn">Share</button>
+</header>
+
+<main class="cat-page">
+  <div id="catContent">
+    <div class="loading"><div class="spinner"></div><p>Loading resources…</p></div>
+  </div>
+</main>
+
+<section aria-hidden="true" class="seo-hidden">
+  <h2>Russian language learning resources, organized by category</h2>
+  <p>Every category in Awesome Russian Language groups together the best free and freemium tools for that specific topic — whether you're studying the Cyrillic alphabet, mastering Russian grammar cases, building vocabulary with flashcards, listening to authentic Russian podcasts, watching Russian movies and TV shows with subtitles, or preparing for the TORFL exam. Each resource is tagged with its CEFR level (A1, A2, B1, B2, C1, C2) and pricing (Free, Freemium, Paid) so you can find exactly what fits your stage and budget. Learn Russian online with verified, community-curated links.</p>
+</section>
+
+<footer class="footer">
+  <div class="foot-bottom">
+    <span>© Awesome Russian Language · CC0</span>
+    <span>Made with ❤️ by <a href="https://github.com/maruf009sultan" target="_blank" rel="noopener">@maruf009sultan</a></span>
+  </div>
+</footer>
+
+<div id="toast" class="toast"></div>
+
+<script src="/app.js"></script>
+<script>renderCategory();</script>
+</body>
+</html>

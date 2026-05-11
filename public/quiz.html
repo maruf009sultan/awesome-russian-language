@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Cyrillic Alphabet Quiz · Awesome Russian Language</title>
+<meta name="description" content="Free interactive Cyrillic alphabet quiz — test your knowledge of the 33 Russian letters in a quick 15-question game." />
+<meta name="keywords" content="cyrillic quiz, russian alphabet quiz, learn cyrillic, russian letters, free russian quiz, russian alphabet game, study russian alphabet" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Cyrillic Alphabet Quiz — Awesome Russian Language" />
+<meta property="og:description" content="Test your Cyrillic knowledge — 15 random questions, instant feedback." />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="/quiz.html" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Quiz","name":"Cyrillic Alphabet Quiz","about":"Russian Cyrillic alphabet","educationalLevel":"A1","numberOfQuestions":15}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Manrope:wght@600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+<div class="bg-aurora"></div>
+
+<header class="nav">
+  <a href="/index.html" class="brand">
+    <span class="flag">🇷🇺</span>
+    <span class="brand-text">Awesome<span class="brand-accent">Russian</span></span>
+  </a>
+  <nav class="nav-links">
+    <a href="/index.html">Home</a>
+    <a href="/index.html#categories">Categories</a>
+    <a href="/quiz.html" class="active">Cyrillic Quiz</a>
+    <a href="https://github.com/maruf009sultan/awesome-russian-language" target="_blank" rel="noopener">GitHub</a>
+  </nav>
+  <button class="icon-btn" id="refreshBtn" aria-label="Refresh resources" title="Refresh resources"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 15-6.7L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-15 6.7L3 16"/><path d="M3 21v-5h5"/></svg></button><button class="btn-share" id="shareBtn">Share</button>
+</header>
+
+<main class="quiz-page">
+  <section class="quiz-hero">
+    <span class="pill">🎮 Mini Game</span>
+    <h1>Cyrillic <span class="grad">Alphabet Quiz</span></h1>
+    <p class="lede">Match the Russian letter with its sound. 15 random questions — how many can you get right?</p>
+  </section>
+
+  <div id="quizApp" class="quiz-app"></div>
+</main>
+
+<section aria-hidden="true" class="seo-hidden">
+  <h2>Free Russian Cyrillic alphabet quiz online</h2>
+  <p>The Russian alphabet — Cyrillic — has 33 letters: 10 vowels, 21 consonants, and 2 signs (the hard sign Ъ and the soft sign Ь). This free interactive quiz randomly tests you on the sound of each letter, including tricky ones like Ы, Щ, Х, Ж, and Ц. Perfect for beginners at the A1 CEFR level who are starting their Russian language journey. Practice your Cyrillic alphabet, learn Russian letter sounds, and prepare for reading real Russian text. No signup, no ads, completely free.</p>
+</section>
+
+<footer class="footer">
+  <div class="foot-bottom">
+    <span>© Awesome Russian Language · CC0</span>
+    <span>Made with ❤️ by <a href="https://github.com/maruf009sultan" target="_blank" rel="noopener">@maruf009sultan</a></span>
+  </div>
+</footer>
+
+<div id="toast" class="toast"></div>
+
+<script src="/app.js"></script>
+<script>renderQuiz();</script>
+</body>
+</html>
