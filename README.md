@@ -27,9 +27,8 @@
 | 76 resources | 31 resources | 99 resources | 41 resources | 22 resources | 52 resources |
 <br/>
 
-<br/>
 | ⭐ [Star](https://github.com/maruf009sultan/awesome-russian-language/stargazers) | 🍴 [Fork](https://github.com/maruf009sultan/awesome-russian-language/fork) | 📢 [Share](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20Russian%20language%20resource%20list!) | 🤝 [Contribute](https://github.com/maruf009sultan/awesome-russian-language/pulls) |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:||
 <br/>
 
 **Created & maintained by [maruf009sultan](https://github.com/maruf009sultan)** ✨
