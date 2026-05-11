@@ -30,7 +30,7 @@
 |:---:|:---:|:---:|:---:|
 <br/>
 
-**Created & maintained by [mmaruf009sultan](https://github.com/maruf009sultan)** ✨
+**Created & maintained by [maruf009sultan](https://github.com/maruf009sultan)** ✨
 
 </div>
 
