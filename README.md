@@ -1258,6 +1258,7 @@
 | 8 | [Luch Sveta — Online Russian Resources](https://luchsveta.org/index.php/online-russian-language-practice) | Collection of practice resources [Free] | All |
 | 9 | [Unlocking Russian](https://unlockingrussian.wordpress.com) | Blog dedicated to unlocking the secrets of the Russian language [Free] | All |
 | 10 | [Verbal Planet Russian Blog](https://www.verbalplanet.com/learn-russian/blog.asp) | Professional tutor blog with Russian learning advice [Free] | All |
+| 11 | [Gora Academy Russian guides](https://gora.academy/russian/) | Free Russian roadmap and 37 grammar, alphabet, cases, vocabulary, and culture guides [Free] | A1 |
 --- 🇷🇺 --- 🇷🇺 --- 🇷🇺 ---
 
 ## 🗺️ Learning Roadmap
